@@ -83,4 +83,4 @@ This project is part of an assignment in Operating System course of IIT KGP.
 
 ### Contributors
 - [Sukhomay Patra]
-- [Abir Roy]
+- [Raj Parikh]
