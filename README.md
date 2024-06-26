@@ -1,4 +1,4 @@
-# Simulating-Virtual-Memory-through-Pure-Demand-Paging
+# PageSync: Multi-Process Virtual Memory Orchestrator
 
 This project simulates demand-paged virtual memory in a multiprogramming environment. It mimics the behavior of a system where processes generate virtual addresses, which are then translated to physical addresses by the Memory Management Unit (MMU). Page faults are handled by bringing pages from disk to main memory. The simulation includes four modules:
 
